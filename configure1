@@ -18,36 +18,36 @@ var privateApartment = {
 
     bedroom: {
       title: "Bedroom",
-      image: "BEDROOM_IMAGE_URL",
-      background: "BEDROOM_BACKGROUND_URL",
+      image: "https://soi-dprivate.hyperchat.com/DallasBedroom.png",
+      background: "https://soi-dprivate.hyperchat.com/Dallasbedback.png",
       text: "Only a few ever see this side."
     },
 
     patio: {
       title: "Patio",
-      image: "PATIO_IMAGE_URL",
-      background: "PATIO_BACKGROUND_URL",
+      image: "https://soi-dprivate.hyperchat.com/Dallaspatio.png",
+      background: "https://soi-dprivate.hyperchat.com/Dallaspatioback.png",
       text: "The city never knows who’s watching."
     },
 
     kitchen: {
       title: "Kitchen",
-      image: "KITCHEN_IMAGE_URL",
-      background: "KITCHEN_BACKGROUND_URL",
+      image: "https://soi-dprivate.hyperchat.com/Dallaskitchen.png",
+      background: "https://soi-dprivate.hyperchat.com/Dallaskitchenback.png",
       text: "Comfort is its own kind of luxury."
     },
 
     garden: {
       title: "Garden",
-      image: "GARDEN_IMAGE_URL",
-      background: "GARDEN_BACKGROUND_URL",
+      image: "https://soi-dprivate.hyperchat.com/Dallasgarden.png",
+      background: "https://soi-dprivate.hyperchat.com/Dallasgardenback.png",
       text: "Growth happens in silence."
     },
 
     pool: {
       title: "Pool",
-      image: "POOL_IMAGE_URL",
-      background: "POOL_BACKGROUND_URL",
+      image: "https://soi-dprivate.hyperchat.com/Dallaspool.png",
+      background: "https://soi-dprivate.hyperchat.com/Dallaspoolback.png",
       text: "Reflections don’t lie."
     }
 
