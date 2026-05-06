@@ -1,0 +1,56 @@
+var privateApartment = {
+
+  THISROOM: "dallasprivate",
+
+  locationName: "Dallas Private Apartment",
+
+  currentView: "bedroom",
+
+  viewList: [
+    "bedroom",
+    "patio",
+    "kitchen",
+    "garden",
+    "pool"
+  ],
+
+  views: {
+
+    bedroom: {
+      title: "Bedroom",
+      image: "BEDROOM_IMAGE_URL",
+      background: "BEDROOM_BACKGROUND_URL",
+      text: "Only a few ever see this side."
+    },
+
+    patio: {
+      title: "Patio",
+      image: "PATIO_IMAGE_URL",
+      background: "PATIO_BACKGROUND_URL",
+      text: "The city never knows who’s watching."
+    },
+
+    kitchen: {
+      title: "Kitchen",
+      image: "KITCHEN_IMAGE_URL",
+      background: "KITCHEN_BACKGROUND_URL",
+      text: "Comfort is its own kind of luxury."
+    },
+
+    garden: {
+      title: "Garden",
+      image: "GARDEN_IMAGE_URL",
+      background: "GARDEN_BACKGROUND_URL",
+      text: "Growth happens in silence."
+    },
+
+    pool: {
+      title: "Pool",
+      image: "POOL_IMAGE_URL",
+      background: "POOL_BACKGROUND_URL",
+      text: "Reflections don’t lie."
+    }
+
+  }
+
+};
